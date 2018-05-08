@@ -27,6 +27,8 @@ gem 'puma', '~> 3.7'
 
 gem 'oj'
 gem 'rabl'
+# Uncomment this line to make the tests pass
+# gem 'jbuilder', '~> 2.5'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
